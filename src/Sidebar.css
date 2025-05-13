@@ -1,0 +1,18 @@
+.sidebar {
+  width: 200px;
+  padding: 20px;
+  background-color: #f8f8f8;
+  border-right: 1px solid #e0e0e0;
+  height: 100vh;
+}
+
+.sidebar p {
+  margin: 10px 0;
+  cursor: pointer;
+  font-weight: 500;
+  color: #333;
+}
+
+.sidebar p:hover {
+  color: #b92b27;
+}
